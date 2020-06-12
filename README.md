@@ -6,7 +6,7 @@ istemci.py ve sunucu.py dosyaları linux tabanlı işletim sistemine sahip bilgi
 
 Bircan Arslan 170401013
 
-### Sunucu
+## Sunucu
 
 - Sunucuyu başlatmak için  `$ sudo python3 server.py ` komutunu yazmalısınız.
 - Sunucu, başlatıldığı bilgisayarın IP adresini otomatik olarak alıp, ekrana aldığı IP adresini yazacaktır.
@@ -14,7 +14,7 @@ Bircan Arslan 170401013
 - Saati ayarlamak için enter tuşuna basmalısınız. Böylece saat değeri istemciye gecikme hesaplanarak gönderilir.
 - Sunucu kapatılana kadar gelen tüm isteklere cevap vermeye devam eder.
 
-### İstemci
+## İstemci
 
 - İstemciyi başlatmak için `$ sudo python3 client.py ` komutunu yazmalısınız.
 - Sunucunun ekranında yazdırılan IP adresini istemciye yazarak bağlantıyı kurabilirsiniz.
