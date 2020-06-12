@@ -1,6 +1,7 @@
-# Veri Haberleşmesi 
-```                                                                                                      ```
-```istemci.py ve sunucu.py dosyaları linux tabanlı işletim sistemine sahip bilgisayarlarda çalışmaktadır.``` 
+# Veri Haberleşmesi                                                                                                   ```
+```
+istemci.py ve sunucu.py dosyaları linux tabanlı işletim sistemine sahip bilgisayarlarda çalışmaktadır.
+``` 
 
 Bircan Arslan 170401013
 
